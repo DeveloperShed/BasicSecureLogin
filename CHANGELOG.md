@@ -1,5 +1,3 @@
-###v1.0.0 (1st January 2016)
+###v1.0.0 (7th January 2016)
 
-- Made a change
-- Made another change
-- Added a new feature
+- Project uploaded from the latest code at Developer Shed Forums
