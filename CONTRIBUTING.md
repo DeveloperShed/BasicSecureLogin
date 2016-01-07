@@ -1,4 +1,4 @@
-# Contributing to <<Project Name>>
+# Contributing to BasicSecureLogin
 
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved. You should also have an
@@ -12,7 +12,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/developershed/<<project-name>>/issues) is
+The [issue tracker](https://github.com/developershed/BasicSecureLogin/issues) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
