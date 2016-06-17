@@ -1,4 +1,4 @@
-# BasicSecureLogin v1.0.0
+# BasicSecureLogin v1.0.1
 
 This tutorial is intended to explain how to design and build the foundation of a secure user authentication system using PHP's PDO library with a MySQL database. Each security measure is explained and justified, and many contain references to additional information should you wish to explore the subject in more depth. This article highlights insecure practices commonly found in code written by beginning PHP programmers who are simply unaware of how to write secure code.
 
