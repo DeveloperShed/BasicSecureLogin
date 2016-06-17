@@ -1,3 +1,7 @@
+###v1.0.1 (16th June 2016)
+
+- Added code demonstrating how to properly destroy a session as suggested by leebaird. Closes Issue #4
+
 ###v1.0.0 (7th January 2016)
 
 - Project uploaded from the latest code by E-Oreo at Developer Shed Forums
